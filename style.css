@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #2c3e50;
+}
+.main h2{
+    font-size: 30px;
+    padding-bottom: 20px;
+    color: #fff;
+}
+.temp form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.temp form input{
+    font-size: 25px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    box-shadow: 3px 4px 2px black;
+    margin-bottom: 20px;
+    background: rgb(173, 173, 173);
+}
+.buttons button{
+    font-size: 20px;
+    background: grey;
+    border-radius: 10px;
+    outline: 0;
+    border: none;
+    box-shadow: 3px 4px 2px black;
+    padding: 10px;
+    align-items: center;
+    cursor: pointer;
+    margin: 10px;
+    color: #fff;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
