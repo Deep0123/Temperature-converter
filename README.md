@@ -13,7 +13,7 @@ This is a simple temperature converter application built using HTML, CSS, and Ja
 
 ## Demo
 
-You can try out the Temperature Converter application by visiting the [live demo]([https://your-demo-link-here.com](https://deep0123.github.io/Temperature-converter/)).
+You can try out the Temperature Converter application by visiting the [live demo](https://deep0123.github.io/Temperature-converter/).
 
 ## Features
 
